@@ -1,2 +1,2 @@
-# blog
-Personal bog
+# Amanda's thoughts on design
+Blog coming soon
